@@ -48,4 +48,4 @@ foreach ($nic in $nics) {
 }
 
 # End
-Write-Host ("`nCompleted`n") -ForegroundColor Yellow
+Write-Host ("`nCompleted`n")
